@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dotland
+- 👋 Hi, I’m Tigran.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning Linux, JVM languages.
+- 🌱 I’m currently learning Linux, JVM languages, databases.
 - 📫 How to reach me - by email.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
