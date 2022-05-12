@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tigran.
 - 👀 I’m interested in computer science.
-- 🌱 I’m currently learning JVM languages, databases.
+- 🌱 I’m currently learning computer programming.
 - 📫 How to reach me - by email.
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
