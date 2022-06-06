@@ -5,6 +5,7 @@
 				body {
 					font-family: Sylfaen,Tahoma,helvetica;
 					font-size: 1em;
+					color: red;
 				}
 			</style>
 		</div>
