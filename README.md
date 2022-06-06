@@ -1,3 +1,5 @@
+<img src="header.svg" width="1" height="1" alt="styles">
+
 - 👋 Hi, I’m Tigran.
 - 👀 I’m interested in computer science.
 - 🌱 I’m currently learning computer programming.
