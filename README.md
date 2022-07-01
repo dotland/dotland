@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/6199709/176721687-4fa37f4f-bdd9-4303-b527-e090a497cc0f.png" width="800" alt="Dotland Logo">
+<img src="https://user-images.githubusercontent.com/6199709/176845322-37ccf779-e954-47a9-afeb-dfcb1413eec7.png" width="800" alt="Dotland Logo">
 
 <img src="header.svg" width="1" height="1" alt="styles">
 
